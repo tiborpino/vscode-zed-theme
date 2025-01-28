@@ -1,6 +1,6 @@
 {
-    "name": "one-monokai",
-    "displayName": "Zed Theme",
+    "name": "zed-one",
+    "displayName": "Zed One Theme",
     "description": "A theme based on Zed editor and One monokai theme.",
     "version": "0.1.0",
     "publisher": "tiborpino",
